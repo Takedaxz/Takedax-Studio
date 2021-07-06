@@ -1,35 +1,42 @@
-body{
-    font-family: 'Kanit', sans-serif;
-    background-color: #0c1b30;
-    margin:0;
-    padding:0;
+body {
+  font-family: "Kanit", sans-serif;
+  background-color: #0c1b30;
+  margin: 0;
+  padding: 0;
 }
-header{
-    background-color:white;
-    padding:5px;
+header {
+  background-color: white;
+  padding: 5px;
 }
-.main{
-    color:black;
-    padding:20px;
-    text-decoration: none;
-    font-weight: bold;
+.main {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  font-weight: bold;
 }
-.contact{
-    color:black;
-    padding:20px;
-    text-decoration: none;
-    font-weight: bold;
+.spec {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  font-weight: bold;
 }
-.font-logo{
-    color:rgb(180, 159, 104);
-    text-align: center;
+.font-logo {
+  color: rgb(180, 159, 104);
+  text-align: center;
 }
-.text01{
-    color:white;
+.text01 {
+  color: white;
 }
-.button01{
-    color:white;
-    background-color:rgb(180, 159, 104);
-    width:8%;
-    border-radius:50px;
+.button01 {
+  color: white;
+  background-color: rgb(180, 159, 104);
+  width: 100px;
+  border-radius: 50px;
+}
+footer {
+  bottom: 0;
+  width: 100%;
+}
+.vdo1 {
+  padding: 10px;
 }
