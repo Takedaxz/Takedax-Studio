@@ -5,20 +5,32 @@ body {
   padding: 0;
 }
 header {
-  background-color: white;
-  padding: 5px;
+  background-color: rgb(255, 255, 255);
+  padding: 3px;
 }
 .main {
   color: black;
   padding: 20px;
   text-decoration: none;
   font-weight: bold;
+  font-family: 'Teko', sans-serif;
+  font-size: 20px;
 }
 .spec {
   color: black;
   padding: 20px;
   text-decoration: none;
   font-weight: bold;
+  font-family: 'Teko', sans-serif;
+  font-size: 20px;
+}
+.me {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Teko', sans-serif;
+  font-size: 20px;
 }
 .font-logo {
   color: rgb(180, 159, 104);
