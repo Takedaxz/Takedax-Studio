@@ -1,3 +1,3 @@
 <h1>Hello!!</h1>
-<h2>This is my website</h2>
-Sheeeshhhhhhh
+<div align="center">This is my website
+Sheeeshhhhhhh</div>
